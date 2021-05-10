@@ -5,6 +5,11 @@
  - I'm a student of IoT Engineering, contributor on [ArrowOS](https://github.com/ArrowOS) and [MoKee](https://github.com/MoKee).
  - I like all the beautiful things.
 
+## 🤔 What I'm doing
+ - Maintaining MoKee for Redmi K20 Pro/Redmi K30 Pro.
+ - Learning Algorithm/Java/Kotlin.
+ - Saving money to buy a light laptop.
+
 ## 💻 Working environment
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows10)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
