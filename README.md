@@ -26,6 +26,7 @@
 
 ## 📫 Get in touch
 [![Telegram](https://img.shields.io/badge/%40TH779-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/TH779)
+[![Email](https://img.shields.io/badge/i%40779%2emoe%20%28Please%20use%20PGP%20for%20encryption%29-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:i@779.moe)
 
 ## 💰 Support my work
  - [爱发电](https://afdian.net/@TH779)
