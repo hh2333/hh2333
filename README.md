@@ -25,7 +25,6 @@
 [![Legion R7000 2020](https://img.shields.io/badge/Legion%20R7000%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5-15ARH05/p/88GMY501444)
 
 ## 📫 Get in touch
-[![Twitter](https://img.shields.io/twitter/follow/realTH779?style=flat-square&color=1da1f2&label=%40realTH779&logo=twitter&logoColor=ffffff&labelColor=1da1f2)](https://twitter.com/realTH779)
 [![Telegram](https://img.shields.io/badge/%40TH779-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/TH779)
 
 ## 💰 Support my work
