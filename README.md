@@ -37,4 +37,4 @@
 ```
 Fingerprint = B2EB 2253 857B F30E 31B1 C8AE BC04 4387 63A9 7840
 ```
-[Click it to download public key](https://keys.openpgp.org/vks/v1/by-fingerprint/B2EB2253857BF30E31B1C8AEBC04438763A97840)
+[Click to download public key](https://keys.openpgp.org/vks/v1/by-fingerprint/B2EB2253857BF30E31B1C8AEBC04438763A97840)
